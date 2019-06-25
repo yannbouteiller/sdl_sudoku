@@ -1,0 +1,2 @@
+chiffres : Comic sans ms taille 16 occidental Rouge Noir par defaut
+cases 27*27, Gras

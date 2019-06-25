@@ -1,0 +1,4 @@
+PENSE BETE :
+
+TEST LOURD : si n possibilités distinctes en tout dans n cases différentes d'une même unité => élimination de ces possibilités dans les autres cases de l'unité. PRINCIPE : analyse case 1 => recherche des possibilités de 1 dans case 2 => recherche des possibilités de 1+2 dans case 3 etc. Si card possibilités == card cases => éliminations NON !!!
+TEST LOURD : si on retrouve n possibilités UNIQUEMENT dans n cases => élimination des autres possibilités dans ces cases.
